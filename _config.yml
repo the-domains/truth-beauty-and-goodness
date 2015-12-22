@@ -1,0 +1,28 @@
+name: Truth Beauty and Goodness
+favicon: null
+layout_spectrum: 0.9344223032239825
+typography_spectrum: 0.6683559261728078
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.024105063173919916
+  lightness: 0.4492267619352788
+  saturation: 0.5809439485892653
+  rhythmicContrast: 0.5069583242293447
+purpose: []
