@@ -1,7 +1,7 @@
-name: Truth Beauty and Goodness
+name: 'Wood & Lace'
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.6683559261728078
+layout_spectrum: 0.49459
+typography_spectrum: 0.50325
 title: 'Wood & Lace'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#092401'
-    - '#ddffa1'
-    - '#538d2f'
-    - '#e473ff'
-    - '#781a7a'
-  brandStrength: 0
+    - '#f4fcff'
+    - '#201830'
+    - '#c69f8c'
+    - '#742d43'
+    - '#565b68'
+  brandStrength: 1
   lightness: 1
-  saturation: 1
+  saturation: 0.5
   rhythmicContrast: 0
 purpose: []
