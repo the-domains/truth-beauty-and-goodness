@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wood & Lace]]></title>
+        <description><![CDATA[Wood & Lace]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 29 Feb 2016 01:21:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wedding Photography]]></title>
+            <description><![CDATA[<article><h1>Wedding Photography</h1><p>Here are some samples of my portfolio that we have been working on.  Just a few of my favorites to show work that we've done in the past.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fde6e0fb95176b7b7afbe64877f4181a3906e7e.jpg"></article>]]></description>
+            <link>undefinedwedding-photography/index.html</link>
+            <guid isPermaLink="false">b71c642a-8ba1-44d9-95f1-efc7de19fd41</guid>
+            <pubDate>Mon, 29 Feb 2016 01:20:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
